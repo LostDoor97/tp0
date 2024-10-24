@@ -1,0 +1,14 @@
+#!/bin/sh
+ok
+ok
+ok
+not ok
+ok
+pok
+oik
+oink
+oink
+imma cat
+hoho
+yo
+exec vim "$@"
